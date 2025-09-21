@@ -1,4 +1,4 @@
-California Housing Price Prediction using XGBoost
+##California Housing Price Prediction using XGBoost
 Project Overview
 This project demonstrates how to build a regression model using XGBoost to predict California housing prices based on the California Housing dataset.
 The process involves data loading, exploration, preprocessing, model training, and evaluation.
@@ -20,13 +20,12 @@ The target variable, MedHouseVal, is the median house value for California distr
 
 Dependencies
 The following libraries are used in this project:
-
-numpy
-pandas
-matplotlib
-seaborn
-sklearn
-xgboost
+a.numpy
+b.pandas
+c.matplotlib
+d.seaborn
+e.sklearn
+f.xgboost
 
 Project Steps
 1. Importing Dependencies: Import necessary libraries for data manipulation, visualization, and model building.
