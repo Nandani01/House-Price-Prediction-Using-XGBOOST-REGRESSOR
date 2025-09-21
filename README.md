@@ -1,4 +1,4 @@
-##California Housing Price Prediction using XGBoost
+                                California Housing Price Prediction using XGBoost
 Project Overview
 This project demonstrates how to build a regression model using XGBoost to predict California housing prices based on the California Housing dataset.
 The process involves data loading, exploration, preprocessing, model training, and evaluation.
@@ -40,9 +40,8 @@ Correlation Analysis: Calculate and visualize the correlation matrix of the feat
 Splitting Data: Separate the features (X) and the target variable (Y). Split the data into training and testing sets (80% for training, 20% for testing) using train_test_split.
 
 6. Model Training:
-   
-Load the XGBoost Regressor model.
-Train the model using the training data (X_train and Y_train).
+   Load the XGBoost Regressor model.
+   Train the model using the training data (X_train and Y_train).
 
 6. Model Evaluation:
 Prediction on Training Data: Make predictions on the training data using the trained model.
