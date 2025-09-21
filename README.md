@@ -1,5 +1,5 @@
                                 California Housing Price Prediction using XGBoost
-Project Overview
+Project Overview:
 This project demonstrates how to build a regression model using XGBoost to predict California housing prices based on the California Housing dataset.
 The process involves data loading, exploration, preprocessing, model training, and evaluation.
 
